@@ -115,9 +115,9 @@
 										</header>
 									</article>
 									<article class="item">
-										<a href="images/smartryder.png" class="image full fancybox"><img src="images/smartryder.png" alt="" /></a>
+										<a href="#" class="image full"><img src="images/pic06.jpg" alt="" /></a>
 										<header>
-											<h3><strong>Innovative Signage</strong></h3>
+											<h3>Full market exposure</h3>
 										</header>
 									</article>
 								</div>
@@ -156,9 +156,9 @@
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image full"><img src="images/pic06.jpg" alt="" /></a>
+										<a href="images/smartryder.png" class="image full fancybox"><img src="images/smartryder.png" alt="" /></a>
 										<header>
-											<h3>Full market exposure</h3>
+											<h3><strong>Innovative Signage</strong></h3>
 										</header>
 									</article>
 								</div>
@@ -173,7 +173,6 @@
 				<!-- About Me -->
 					<section id="about" class="three">
 						<div class="container">
-
 							<header>
 								<h2 style="color: #fff;">Comparative Market Analysis</h2>
 								<h3 style="color: #ecf0f1;">Properties sold within area of 45 Trestle Drive</h3>
@@ -219,8 +218,8 @@
 									</article>
 								</div>
 							</div>
-								</header>
-							</article>
+							<br />
+							<a href="images/compdata.png" class="image full fancybox"><img style="width: 100%;" src="images/compdata.png" /></a>
 						</div>
 					</section>
 			
