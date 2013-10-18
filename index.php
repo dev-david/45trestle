@@ -182,12 +182,12 @@
 									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>722 City Walk Place</strong></h3>
+										<h3><strong>660 Grand Terrace</strong></h3>
 										<ul>
-											<li>3 Bed - 2.5 Bath</li>
-											<li>1,418 Sq Ft -  0 Lot</li>
-											<li>List: 4/5/13 - Pending: 4/10/13</li>
-											<li>List: $290,000 - SOLD $347,000</li>
+											<li>2 Bed - 2.5 Bath</li>
+											<li>1,170 Sq Ft -  1,249 Lot</li>
+											<li>List: 5/30/13 - Pending: 6/14/13</li>
+											<li>List: $319,950 - SOLD $349,000</li>
 										</ul>
 									</article>
 								</div>
@@ -195,12 +195,12 @@
 									<article class="item">
 										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>25003 Discoverer Place</strong></h3>
+										<h3><strong>56 Trestle Drive</strong></h3>
 										<ul>
-											<li>2 Bed - 2.5 Bath</li>
-											<li>1,490 Sq Ft - 0 Lot</li>
-											<li>List: 5/16/13 - Pending: 7/18/13</li>
-											<li>List: $279,000 - SOLD $310,000</li>
+											<li>3 Bed - 2 Bath</li>
+											<li>1,475 Sq Ft - 0 Lot</li>
+											<li>List: 4/17/13 - Pending: 4/24/13</li>
+											<li>List: $329,000 - SOLD $370,000</li>
 										</ul>
 									</article>
 								</div>
@@ -208,12 +208,12 @@
 									<article class="item">
 										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>24036 San Blas Road</strong></h3>
+										<h3><strong>22831 Paseo Place</strong></h3>
 										<ul>
-											<li>2 Bed - 2.5 Bath</li>
-											<li>1,412 Sq Ft - 0 Lot</li>
-											<li>List: 4/22/13 - Pending: 4/29/13</li>
-											<li>List: $300,000 - SOLD $321,000</li>
+											<li>2 Bed - 3 Bath</li>
+											<li>1,595 Sq Ft - 0 Lot</li>
+											<li>List: 5/10/13 - Pending: 5/21/13</li>
+											<li>List: $349,950 - SOLD $405,000</li>
 										</ul>
 									</article>
 								</div>
@@ -243,7 +243,7 @@
 								<a href="mailto:kenny@fastagent.me"><span class="small">kenny@fastagent.me</span></a>
 							</header>
 							<p>
-								Kenny was ranked the #3 agent in Alameda County for closed homes sold. He is a branded #fastagent who has inspired many in Alameda counties Real Estate industry with his cutting edge visions.
+								Kenny is currently in the top 0.5% of units closed out of 25,000+ Agents in our local market. He is a branded #fastagent who has inspired many in Alameda counties Real Estate industry with his cutting edge visions.
 							</p>
 						</article>
 						<article class="4u ">
