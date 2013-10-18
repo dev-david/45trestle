@@ -117,7 +117,7 @@
 									<article class="item">
 										<a href="#" class="image full"><img src="images/pic06.jpg" alt="" /></a>
 										<header>
-											<h3>Full market exposure</h3>
+											<h3>Fast Agent branding</h3>
 										</header>
 									</article>
 								</div>
@@ -182,12 +182,12 @@
 									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>22815 Paseo Place</strong></h3>
+										<h3><strong>722 City Walk Place</strong></h3>
 										<ul>
-											<li>2 Bed - 3 Bath</li>
-											<li>1,595 Sq Ft -  0 Lot</li>
-											<li>List: 8/15/13 - Pending: 8/27/13</li>
-											<li>List: $379,950 - SOLD $407,000</li>
+											<li>3 Bed - 2.5 Bath</li>
+											<li>1,418 Sq Ft -  0 Lot</li>
+											<li>List: 4/5/13 - Pending: 4/10/13</li>
+											<li>List: $290,000 - SOLD $347,000</li>
 										</ul>
 									</article>
 								</div>
@@ -208,12 +208,12 @@
 									<article class="item">
 										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>660 Grand Terrace</strong></h3>
+										<h3><strong>24036 San Blas Road</strong></h3>
 										<ul>
 											<li>2 Bed - 2.5 Bath</li>
-											<li>1,170 Sq Ft - 0 Lot</li>
-											<li>List: 5/30/13 - Pending: 6/14/13</li>
-											<li>List: $319,950 - SOLD $349,000</li>
+											<li>1,412 Sq Ft - 0 Lot</li>
+											<li>List: 4/22/13 - Pending: 4/29/13</li>
+											<li>List: $300,000 - SOLD $321,000</li>
 										</ul>
 									</article>
 								</div>
