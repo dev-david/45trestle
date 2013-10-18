@@ -115,7 +115,7 @@
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image full"><img src="images/pic06.jpg" alt="" /></a>
+										<a href="images/pic06.jpg" class="image full fancybox"><img src="images/pic06.jpg" alt="" /></a>
 										<header>
 											<h3>Fast Agent branding</h3>
 										</header>
