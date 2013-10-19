@@ -186,7 +186,7 @@
 										<ul>
 											<li>2 Bed - 2.5 Bath</li>
 											<li>1,170 Sq Ft -  1,249 Lot</li>
-											<li>List: 5/30/13 - Pending: 6/14/13</li>
+											<li>List: 5/30/13 - Sold: 7/16/13</li>
 											<li>List: $319,950 - SOLD $349,000</li>
 										</ul>
 									</article>
@@ -199,7 +199,7 @@
 										<ul>
 											<li>3 Bed - 2 Bath</li>
 											<li>1,475 Sq Ft - 0 Lot</li>
-											<li>List: 4/17/13 - Pending: 4/24/13</li>
+											<li>List: 4/17/13 - Sold: 5/31/13</li>
 											<li>List: $329,000 - SOLD $370,000</li>
 										</ul>
 									</article>
@@ -212,7 +212,7 @@
 										<ul>
 											<li>2 Bed - 3 Bath</li>
 											<li>1,595 Sq Ft - 0 Lot</li>
-											<li>List: 5/10/13 - Pending: 5/21/13</li>
+											<li>List: 5/10/13 - Sold: 6/20/13</li>
 											<li>List: $349,950 - SOLD $405,000</li>
 										</ul>
 									</article>
