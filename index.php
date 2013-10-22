@@ -81,9 +81,10 @@
 							<img class="headerlogo" src="images/teamfastagents.jpg" alt="" />
 
 							<header>
-								<h2 class="alt">Thinking about selling <span class="blackblock"> 45 Trestle Drive? </span> Let us help! This is YOUR personal team of professionals. Whether you have questions about purchasing or selling, you can rest assured when you have your own Team of Fast Agents backing you.</h2>
+								<h3 class="alt">Thinking about selling <span class="blackblock"> 45 Trestle Drive?</span> Let us help! Team Fast Agents is YOUR personal team of professionals who makes Real Estate <span class="blueblock">EASY</span> for <span class="greenblock">YOU.</span></h3>
 							</header>
-
+							<iframe src="http://mapsengine.google.com/map/embed?mid=zERNb6ZQT6mM.kvWX6H8LeZas" width="80%" height="480"></iframe>
+							<h3><span class="blackblock">Results.</span> Period.</h3>
 							<footer>
 								<a href="#portfolio" class="button scrolly">More info</a>
 							</footer>
@@ -164,6 +165,8 @@
 								</div>
 							</div>
 							<br>
+							<a href="http://www.trulia.com/profile/KennyTruong/"><img src="http://www.trulia.com/profile/badge/1358038/trulia_profile_v05_green.png" width="160" height="35" border="0" alt="#FASTAGENT | KENNY TRUONG - Agent at MICHAEL JAMES Real Estate" /></a>
+							<br />
 							<a href="images/zillow.jpg" class="image full fancybox"><img style="width: 100%;" src="images/zillow.jpg" /></a>
 							<br>
 							<a href="images/youtube.jpg" class="image full fancybox"><img style="width: 100%;" src="images/youtube.jpg" /></a>
